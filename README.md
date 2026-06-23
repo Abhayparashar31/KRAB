@@ -1,3 +1,5 @@
+![KRAB Banner](https://raw.githubusercontent.com/Abhayparashar31/KRAB/main/Banner_Image.png)
+
 **KRAB (Knowledge & Relational Adversary Brain)** is a robust, modular, Obsidian-based threat intelligence platform. It is engineered to bridge the gap between raw MITRE ATT&CK data and internal operational intelligence, providing real-time, bi-directional correlation between Threat Actors, Campaigns, Malware, Vulnerabilities, and TTPs.
 
 
