@@ -1,0 +1,26 @@
+{
+  "templater-obsidian:create-Scripts/Create Links Template.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "C"
+    }
+  ],
+  "templater-obsidian:Scripts/Create Links Template.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "V"
+    }
+  ],
+  "templater-obsidian:create-Scripts/Add_Backlinks_In_TTPs.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "B"
+    }
+  ]
+}
