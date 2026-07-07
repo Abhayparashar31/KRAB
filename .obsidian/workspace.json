@@ -11,14 +11,12 @@
             "id": "d908b9156e6889a9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "_Dashbaord/Homepage.md",
-                "mode": "source",
-                "source": false
+                "file": "Banner_Image.png"
               },
-              "icon": "lucide-file",
-              "title": "Homepage"
+              "icon": "lucide-image",
+              "title": "Banner_Image"
             }
           },
           {
@@ -31,8 +29,7 @@
               "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -195,18 +192,20 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3099c3beb454811f",
+  "active": "d908b9156e6889a9",
   "lastOpenFiles": [
+    "_Future Plan.md",
+    "_Dashbaord/Homepage.md",
+    "_Templates/PIR_Template.md",
+    "README.md",
+    "Banner_Image.png",
     "97_Images/Banner.png",
     "97_Images/Graph_View.png",
     "97_Images/Screenshot (13).png",
     "97_Images",
     "New folder",
     "01_Threat_Actors/Scattered Spider.md",
-    "README.md",
-    "_Future Plan.md",
     "Banner.png",
-    "_Dashbaord/Homepage.md",
     "05_Vulnerabilities/CVE-2026-35273.md",
     "05_Vulnerabilities/CVE-2024-57728.md",
     "05_Vulnerabilities/CVE-2024-57727.md",
