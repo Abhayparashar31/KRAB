@@ -11,12 +11,14 @@
             "id": "d908b9156e6889a9",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Banner_Image.png"
+                "file": "_Dashbaord/Homepage.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Banner_Image"
+              "icon": "lucide-file",
+              "title": "Homepage"
             }
           },
           {
@@ -194,11 +196,18 @@
   },
   "active": "d908b9156e6889a9",
   "lastOpenFiles": [
+    "99_Attachments/Images/Graph_View.png",
+    "99_Attachments/Images/Banner.png",
+    "99_Attachments/Images",
+    "99_Attachments/New folder",
+    "99_Attachments/Graph_View.png",
+    "99_Attachments/Banner.png",
+    "98_Exports/Homepage.pdf",
+    "Banner_Image.png",
     "_Future Plan.md",
     "_Dashbaord/Homepage.md",
     "_Templates/PIR_Template.md",
     "README.md",
-    "Banner_Image.png",
     "97_Images/Banner.png",
     "97_Images/Graph_View.png",
     "97_Images/Screenshot (13).png",
@@ -226,7 +235,6 @@
     "04_Malware/Qakbot.md",
     "04_Malware/Vidar Stealer.md",
     "04_Malware/RedLine Stealer.md",
-    "04_Malware/LockBit 5.0.md",
     "Untitled.base",
     "_Dashbaord",
     "98_Exports",
