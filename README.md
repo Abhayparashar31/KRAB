@@ -43,6 +43,7 @@ The workflow is designed to be frictionless:
 The dashboard relies on Dataview to aggregate your findings. Once you run the correlation script, your **Prevalence Matrix** on the dashboard updates instantly to show the most "popular" techniques among your tracked adversaries.
 
 ---
+![Graph View](https://raw.githubusercontent.com/Abhayparashar31/KRAB/main/99_Attachments/Images/Graph_View.png)
 
 ## Dashboard Architecture
 The KRAB dashboard is segmented into tactical and strategic views:

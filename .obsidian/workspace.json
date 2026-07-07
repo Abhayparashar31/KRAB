@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Dashbaord/Homepage.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Homepage"
+              "title": "README"
             }
           },
           {
@@ -196,6 +196,10 @@
   },
   "active": "d908b9156e6889a9",
   "lastOpenFiles": [
+    "Banner_Image.png",
+    "_Future Plan.md",
+    "README.md",
+    "_Dashbaord/Homepage.md",
     "99_Attachments/Images/Graph_View.png",
     "99_Attachments/Images/Banner.png",
     "99_Attachments/Images",
@@ -203,11 +207,7 @@
     "99_Attachments/Graph_View.png",
     "99_Attachments/Banner.png",
     "98_Exports/Homepage.pdf",
-    "Banner_Image.png",
-    "_Future Plan.md",
-    "_Dashbaord/Homepage.md",
     "_Templates/PIR_Template.md",
-    "README.md",
     "97_Images/Banner.png",
     "97_Images/Graph_View.png",
     "97_Images/Screenshot (13).png",
